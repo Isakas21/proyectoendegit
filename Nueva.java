@@ -6,6 +6,6 @@ public class Nueva {
 	}
 
 	public static void main(String[] args) {
-		System.out.println("hola mu buena tarde");
+		System.out.println("hola mu buena asdfasdfasdtarde");
 	}
 }
